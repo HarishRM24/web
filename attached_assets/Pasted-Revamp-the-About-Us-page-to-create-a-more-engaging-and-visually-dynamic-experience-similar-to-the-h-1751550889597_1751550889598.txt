@@ -1,0 +1,26 @@
+Revamp the About Us page to create a more engaging and visually dynamic experience, similar to the homepage. Replace the plain white background with a modern, subtle gradient or abstract animated background that aligns with the NTIMES.AI brand identity. For each section—**"Our Purpose," "What Makes NTIMES.AI Different?,"** and **"What We Stand For: Our Core Principles"**—add relevant animated icons or logos that visually represent the content, ensuring each graphic is directly related to its section’s message.
+
+Integrate smooth, professional entrance animations for each content block and card (such as fade-in, slide-in, or hover effects) to enhance interactivity and user engagement. Use microinteractions or motion graphics to highlight key points without overwhelming the user. Maintain consistency in animation style, color palette, and iconography to ensure a unified brand experience across the page. 
+
+Reference the animation quality and logo integration used on the homepage for inspiration, and ensure all enhancements are optimized for fast loading and accessibility.
+
+[1] https://pplx-res.cloudinary.com/image/private/user_uploads/76337591/be905ccb-5619-4be7-98c7-7b2acfa16972/image.jpg
+[2] https://www.svgator.com/blog/website-animation-examples-and-effects/
+[3] https://prolificstudio.co/blog/adding-a-dynamic-touch-integrating-motion-logos-into-your-website/
+[4] https://sickboat.com/blogs/blog/logo-animation-essentials
+[5] https://www.vistaprint.com/hub/animated-logos
+[6] https://www.digitalsilk.com/digital-trends/website-animations/
+[7] https://blog.emb.global/top-logo-animation-ideas/
+[8] https://blog.hubspot.com/website/website-animation-examples
+[9] https://webflow.com/made-in-webflow/animation
+[10] https://www.halo-lab.com/blog/best-website-animation-techniques
+[11] https://www.wyzowl.com/corporate-animation/
+[12] https://www.wix.com/blog/website-animations
+[13] https://www.adobe.com/express/create/logo/animated
+[14] https://www.superside.com/blog/corporate-animation-examples
+[15] https://vidico.com/news/business-animation-videos/
+[16] https://www.youtube.com/watch?v=G403ReX25Os
+[17] https://www.moonb.io/blog/corporate-animation
+[18] https://www.canva.com/create/logos/animated/
+[19] https://lottiefiles.com/blog/design-inspiration/examples-of-animated-logos-for-inspiration
+[20] https://mypromovideos.com/blog/corporate-video-examples/
